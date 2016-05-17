@@ -1,0 +1,80 @@
+app.coffee
+framer/backups/backup-2016-05-16 20.38.07.coffee
+framer/backups/backup-2016-05-16 20.39.07.coffee
+framer/backups/backup-2016-05-16 20.40.07.coffee
+framer/backups/backup-2016-05-16 20.41.08.coffee
+framer/backups/backup-2016-05-16 20.42.06.coffee
+framer/backups/backup-2016-05-16 20.43.07.coffee
+framer/backups/backup-2016-05-16 20.44.06.coffee
+framer/backups/backup-2016-05-16 20.55.06.coffee
+framer/backups/backup-2016-05-16 20.56.06.coffee
+framer/backups/backup-2016-05-16 20.57.07.coffee
+framer/backups/backup-2016-05-16 20.58.06.coffee
+framer/backups/backup-2016-05-16 21.02.06.coffee
+framer/backups/backup-2016-05-16 21.03.06.coffee
+framer/backups/backup-2016-05-16 21.04.06.coffee
+framer/backups/backup-2016-05-16 21.05.06.coffee
+framer/backups/backup-2016-05-16 21.06.06.coffee
+framer/backups/backup-2016-05-17 16.36.11.coffee
+framer/backups/backup-2016-05-17 16.37.11.coffee
+framer/backups/backup-2016-05-17 16.40.11.coffee
+framer/backups/backup-2016-05-17 16.41.11.coffee
+framer/backups/backup-2016-05-17 16.45.11.coffee
+framer/coffee-script.js
+framer/config.json
+framer/framer.generated.js
+framer/framer.init.js
+framer/framer.js
+framer/framer.js.map
+framer/framer.modules.js
+framer/images/background.png
+framer/images/cursor-active.png
+framer/images/cursor-active@2x.png
+framer/images/cursor.png
+framer/images/cursor@2x.png
+framer/images/icon-120.png
+framer/images/icon-152.png
+framer/images/icon-180.png
+framer/images/icon-192.png
+framer/images/icon-76.png
+framer/images/icon-arrow.png
+framer/images/icon-arrow@2x.png
+framer/images/icon-close.png
+framer/images/icon-close@2x.png
+framer/images/icon-framer.png
+framer/images/icon-framer@2x.png
+framer/images/icon-share.png
+framer/images/icon-share@2x.png
+framer/manifest.txt
+framer/mirror.css
+framer/style.css
+framer/version
+framerOnboard_12-9.sketch
+imported/framerOnboard_12-9@1x/images/Layer-calendar-rujeodbg.png
+imported/framerOnboard_12-9@1x/images/Layer-card1-quuzouje.png
+imported/framerOnboard_12-9@1x/images/Layer-card2-rtc4mzfg.png
+imported/framerOnboard_12-9@1x/images/Layer-card3-otuzrtfc.png
+imported/framerOnboard_12-9@1x/images/Layer-group-meyxnjkw.png
+imported/framerOnboard_12-9@1x/images/Layer-group-mkm1rtbg.png
+imported/framerOnboard_12-9@1x/images/Layer-group-ntjeodbf.png
+imported/framerOnboard_12-9@1x/images/Layer-group-qjzcquzc.png
+imported/framerOnboard_12-9@1x/images/Layer-group-qkrdn0zg.png
+imported/framerOnboard_12-9@1x/images/Layer-group-qtfdmtbc.png
+imported/framerOnboard_12-9@1x/images/Layer-group-qufdotcw.png
+imported/framerOnboard_12-9@1x/images/Layer-inactive-mefgndg2.png
+imported/framerOnboard_12-9@1x/images/Layer-inactive-mjqxodbf.png
+imported/framerOnboard_12-9@1x/images/Layer-inactive-mtfbnjnb.png
+imported/framerOnboard_12-9@1x/images/Layer-navbar-mty2qzbb.png
+imported/framerOnboard_12-9@1x/images/Layer-onboard-oumxotlc.png
+imported/framerOnboard_12-9@1x/images/Layer-placeholder1-rum2rkjc.png
+imported/framerOnboard_12-9@1x/images/Layer-placeholder2-njbbrjex.png
+imported/framerOnboard_12-9@1x/images/Layer-row1-nzc1nde1.png
+imported/framerOnboard_12-9@1x/images/Layer-row2-othcmtuy.png
+imported/framerOnboard_12-9@1x/images/Layer-row3-qkqxrdyx.png
+imported/framerOnboard_12-9@1x/images/Layer-text1-otlerdaz.png
+imported/framerOnboard_12-9@1x/images/Layer-text2-rdg1odve.png
+imported/framerOnboard_12-9@1x/images/Layer-text3-rty5ntey.png
+imported/framerOnboard_12-9@1x/layers.json
+imported/framerOnboard_12-9@1x/layers.json.js
+index.html
+modules/myModule.coffee
